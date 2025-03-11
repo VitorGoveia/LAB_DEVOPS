@@ -1,3 +1,7 @@
-# LAB_DEVOPS
+# GIT LAB - AULA DEVOPS
 
-# Alterando o arquivo READ.ME
+## LAB 01:
+Aprendendo sobre Add, Commit e Push
+
+## LAB 02:
+Aprendendo sobre Branch e Merge 
